@@ -1,1 +1,2 @@
 # CustomerSegmentation
+In this project, I conducted customer segmentation of Transjakarta users using the RFM (Recency, Frequency, Monetary) method and compared two clustering algorithms, K-Means and DBSCAN, to determine the most effective approach for improving customer satisfaction, loyalty, and service management. This involved evaluating the algorithms based on performance indicators such as Silhouette Score and DBI, with the goal of contributing to better traffic management and service improvements for Transjakarta.
